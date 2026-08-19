@@ -1,5 +1,6 @@
 ## Hi there 👋
-### Call me Mayo. I am a Data & AI SEAL | Scientist • Engineer • Analyst • Leader | Building Data & AI Solutions from Pipeline to Boardroom
+
+#### I am a Data & AI SEAL | Scientist • Engineer • Analyst • Leader | Building Data & AI Solutions from Pipeline to Boardroom
 
 - 🔭 I’m currently working on NHS Bristol (UK) Estimated Avoidable Death Prediction to help senior health management with early warnings  & support pre-emptive actions for patients boarding in the emergency department
 
