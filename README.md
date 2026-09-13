@@ -5,8 +5,9 @@ Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst •
 <br>👯 Looking to collaborate on: an end-to-end data science or AI project<br>
 💬 Ask me about: predictive modelling, ML pipelines, or applying AI in healthcare/enterprise settings
 
-<br>📫 Reach me: mayowarominiyi@gmail.com • www.linkedin.com/in/olumayowa-rominiyi 
+<br>📫 Reach me: mayowarominiyi@gmail.com • [www.linkedin.com/in/olumayowa-rominiyi](https://www.linkedin.com/in/olumayowa-rominiyi)
 
+---
 
 ### 🛠️ Tech Stack
 <p align="left">
