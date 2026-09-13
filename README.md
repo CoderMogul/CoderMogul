@@ -15,10 +15,8 @@ Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst •
   <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40" alt="Apache Spark" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40" height="40" alt="SQL Server" />
   <img src="https://cdn.simpleicons.org/keras" width="40" height="40" alt="Keras" />
-  <img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40" alt="Matplotlib" />
   <img src="https://cdn.simpleicons.org/mlflow" width="40" height="40" alt="MLflow" />
   <img src="https://cdn.simpleicons.org/scipy" width="40" height="40" alt="SciPy" />
-  <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40" alt="Power BI" />
 </p>
 
 # 📊 GitHub Stats:
