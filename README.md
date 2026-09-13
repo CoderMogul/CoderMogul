@@ -4,6 +4,7 @@ Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst •
 <br>🌱 Currently learning: Databricks AI Agent Engineering, and refining MLOps workflows with Git
 <br>👯 Looking to collaborate on: an end-to-end data science or AI project<br>
 💬 Ask me about: predictive modelling, ML pipelines, or applying AI in healthcare/enterprise settings
+
 <br>📫 Reach me: mayowarominiyi@gmail.com • www.linkedin.com/in/olumayowa-rominiyi 
 
 
