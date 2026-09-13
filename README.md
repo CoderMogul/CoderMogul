@@ -1,18 +1,22 @@
 # 💫 About Me:
-Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst • Leader<br><br>Turning raw pipelines into boardroom-ready decisions.<br><br>🔭 Currently building: an Avoidable Death Prediction model for NHS Bristol (UK) — an early-warning system for patients boarding in the Emergency Department, helping senior health management take pre-emptive action<br>🌱 Currently learning: Databricks AI Agent Engineering, and refining MLOps workflows with Git<br>👯 Looking to collaborate on: an end-to-end data science or AI project<br>💬 Ask me about: predictive modelling, ML pipelines, or applying AI in healthcare/enterprise settings<br>📫 Reach me: [your email] • [LinkedIn] • [portfolio site]
+Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst • Leader<br><br>Turning raw pipelines into boardroom-ready decisions.<br>
+<br>🔭 Currently building: an Avoidable Death Prediction model for NHS Bristol (UK) — an early-warning system for patients boarding in the Emergency Department, helping senior health management take pre-emptive action
+<br>🌱 Currently learning: Databricks AI Agent Engineering, and refining MLOps workflows with Git
+<br>👯 Looking to collaborate on: an end-to-end data science or AI project<br>
+💬 Ask me about: predictive modelling, ML pipelines, or applying AI in healthcare/enterprise settings
+<br>📫 Reach me: mayowarominiyi@gmail.com • www.linkedin.com/in/olumayowa-rominiyi 
 
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,html,bash,azure,mysql,sklearn,git&theme=dark" />
-</p>
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,html,bash,azure,mysql,sklearn,git,vscode&theme=dark" />
   <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40" alt="Apache Spark" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40" height="40" alt="SQL Server" />
   <img src="https://cdn.simpleicons.org/keras" width="40" height="40" alt="Keras" />
   <img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40" alt="Matplotlib" />
   <img src="https://cdn.simpleicons.org/mlflow" width="40" height="40" alt="MLflow" />
   <img src="https://cdn.simpleicons.org/scipy" width="40" height="40" alt="SciPy" />
+  <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40" alt="Power BI" />
 </p>
 
 # 📊 GitHub Stats:
