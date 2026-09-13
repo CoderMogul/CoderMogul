@@ -1,26 +1,26 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst • Leader<br><br>Turning raw pipelines into boardroom-ready decisions.<br><br>🔭 Currently building: an Avoidable Death Prediction model for NHS Bristol (UK) — an early-warning system for patients boarding in the Emergency Department, helping senior health management take pre-emptive action<br>🌱 Currently learning: Databricks AI Agent Engineering, and refining MLOps workflows with Git<br>👯 Looking to collaborate on: an end-to-end data science or AI project<br>💬 Ask me about: predictive modelling, ML pipelines, or applying AI in healthcare/enterprise settings<br>📫 Reach me: [your email] • [LinkedIn] • [portfolio site]
 
-#### I am a Data & AI SEAL | Scientist • Engineer • Analyst • Leader | Building Data & AI Solutions from Pipeline to Boardroom
 
-- 🔭 I’m currently working on NHS Bristol (UK) Estimated Avoidable Death Prediction to help senior health management with early warnings  & support pre-emptive actions for patients boarding in the emergency department
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,html,bash,azure,mysql,sklearn,git&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40" height="40" alt="SQL Server" />
+  <img src="https://cdn.simpleicons.org/keras" width="40" height="40" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40" alt="Matplotlib" />
+  <img src="https://cdn.simpleicons.org/mlflow" width="40" height="40" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/scipy" width="40" height="40" alt="SciPy" />
+</p>
 
-- 🌱 I’m currently learning Databricks AI agent Engineering & Git for version control
- 
-- 👯 I’m looking to collaborate on an end-to-end data science or AI project
-  
-- 💬 Ask me about Data & AI related topics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=CoderMogul&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CoderMogul&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CoderMogul&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**CoderMogul/CoderMogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://komarev.com/ghpvc/?username=CoderMogul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NHS Bristol (UK) Estimated Avoidable Death Prediction to help senior health management with early warnings  & support pre-emptive actions for patients boarding in the emergency department 
-- 🌱 I’m currently learning Databricks AI agent Engineering & Git for version control
-- 👯 I’m looking to collaborate on an end-to-end data science or AI project 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Data & AI related topics
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
