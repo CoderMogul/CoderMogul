@@ -25,6 +25,6 @@ Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst •
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CoderMogul&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=CoderMogul&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
