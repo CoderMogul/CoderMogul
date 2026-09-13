@@ -7,7 +7,7 @@ Hi, I'm Mayowa 👋<br>Data & AI SEAL — Scientist • Engineer • Analyst •
 
 <br>📫 Reach me: mayowarominiyi@gmail.com • [www.linkedin.com/in/olumayowa-rominiyi](https://www.linkedin.com/in/olumayowa-rominiyi)
 
----
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50&height=2" />
 
 ### 🛠️ Tech Stack
 <p align="left">
